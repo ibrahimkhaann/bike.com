@@ -158,6 +158,10 @@
         padding-right: 168px;
         line-height: 30px;
     }
+    *{
+        overflow-x: hidden;
+        line-height: normal !important;
+    }
 
 
 }
@@ -167,6 +171,11 @@
     .navbar-brand img {
         margin-left: -175px;
     }
+      *{
+        overflow-x: hidden;
+        line-height: normal !important;
+    }
+
 
     .navbar-toggler i {
         color: white;
@@ -316,6 +325,11 @@
         color: white;
         margin-left: 100px;
     }
+      *{
+        overflow-x: hidden;
+        line-height: normal !important;
+    }
+
 
     .navbar-brand {
         margin-left: -170px;
